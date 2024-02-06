@@ -1,2 +1,1 @@
-protobuf==3.12.2
-Jinja2==2.11.2
+xunit==3.0.8
